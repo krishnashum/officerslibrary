@@ -17,8 +17,7 @@ const Navigation = () => {
                  src={logo}
                  width={50}
                  height={50}
-                 alt= "Officer's
-                 Library"
+                 alt= "Officer's Library"
                />
             </Navbar.Brand>
             <Nav className="me-auto">
